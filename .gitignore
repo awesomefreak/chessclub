@@ -1,0 +1,4 @@
+*.pyc
+README (copy).md
+data/*
+processed/*
